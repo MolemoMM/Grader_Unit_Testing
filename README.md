@@ -8,7 +8,7 @@ Welcome to **LevelGrader**! This is a simple Java application that determines th
 **LevelGrader** helps you easily determine the grade level based on a number score. Whether you're grading student performance or testing your logic, **LevelGrader** has got you covered!
 
 Key Features:
-- 🎯 **Grade Calculation**: Converts a numeric grade to a level grade (e.g., "A", "B", etc.).
+- 🎯 **Grade Calculation**: Converts a numeric grade to a level grade (e.g., "1", "2", etc.).
 - 🧪 **Unit Tests**: Ensures the grading logic is correct.
 - 🔄 **Maven**: Simplifies build and dependency management.
 
@@ -80,7 +80,7 @@ To start the **LevelGrader** app, use the command below:
 mvn exec:java -Dexec.mainClass="org.example.Main"
 ```
 
-You can now enter a grade, and the application will return the corresponding level grade (e.g., "A", "B", etc.). 🎉
+You can now enter a grade, and the application will return the corresponding level grade (e.g., "1", "2", etc.). 🎉
 
 ### 🧪 Run the Tests
 
