@@ -1,6 +1,3 @@
-Got it! Let's make the `README.md` even more interactive and fun by adding more emojis and enhancing the user experience. Here's a revised version:
-
----
 
 # 🎓 LevelGrader
 
